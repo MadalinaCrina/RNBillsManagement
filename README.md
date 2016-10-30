@@ -2,5 +2,4 @@
 React-native
 
 Manage the bills issued by a company. After authentication, the user can see 
-the bills, can introduce another bill, and a chart with informations about
-the bills.
+the bills, a chart with informations about the bills and can introduce another bill. 
