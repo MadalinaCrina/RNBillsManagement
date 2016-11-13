@@ -1,26 +1,3 @@
-{"text":"d","version":1,"updated":1478987739442,"_id":"7iFEuUzu9CuA42iN"}
-{"text":"or","version":2,"updated":1478987402316,"_id":"J4j4JVDOjVRzracT"}
-{"text":"t","version":1,"updated":1478985952200,"_id":"yK0p430USmaRrMYK"}
-{"$$deleted":true,"_id":"J4j4JVDOjVRzracT"}
-{"$$deleted":true,"_id":"7iFEuUzu9CuA42iN"}
-{"$$deleted":true,"_id":"yK0p430USmaRrMYK"}
-{"text":"a","version":1,"updated":1478988806966,"_id":"59j0kTIF9SIrx8CJ"}
-{"text":"ah","version":1,"updated":1478988821220,"_id":"XR0ybdIzJY4NpSX5"}
-{"$$deleted":true,"_id":"59j0kTIF9SIrx8CJ"}
-{"text":"aha","version":1,"updated":1478989106856,"_id":"oi7WQkdo7CVwUP0X"}
-{"$$deleted":true,"_id":"XR0ybdIzJY4NpSX5"}
-{"$$deleted":true,"_id":"oi7WQkdo7CVwUP0X"}
-{"text":"aha","version":1,"updated":1478989764851,"_id":"ZbfRiynYlBoB1KR8"}
-{"text":"ajha","version":1,"updated":1478989770916,"_id":"iFKMu9uY7jJKM3e4"}
-{"text":"ajhja","version":1,"updated":1478989783621,"_id":"F1IzWN3V3UNln08j"}
-{"$$deleted":true,"_id":"ZbfRiynYlBoB1KR8"}
-{"$$deleted":true,"_id":"F1IzWN3V3UNln08j"}
-{"$$deleted":true,"_id":"iFKMu9uY7jJKM3e4"}
-{"text":"r","version":1,"updated":1478990775315,"_id":"S9fBSnZyW6XMFwO1"}
-{"text":"fff","version":1,"updated":1478991213337,"_id":"NfVQRJhfVoTjKgNY"}
-{"text":"iii","version":1,"updated":1478991217383,"_id":"vqOzWFp7nY0U7OWV"}
-{"text":"iii6","version":2,"updated":1478991230234,"_id":"vqOzWFp7nY0U7OWV"}
-{"$$deleted":true,"_id":"NfVQRJhfVoTjKgNY"}
-{"text":"ry","version":2,"updated":1478991327977,"_id":"S9fBSnZyW6XMFwO1"}
-{"text":"8","version":1,"updated":1478991341722,"_id":"jUThGvT0JFoTiFZi"}
-{"$$deleted":true,"_id":"vqOzWFp7nY0U7OWV"}
+{"text":"Bill 0","price":"0","status":"active","updated":1478995589696,"user":"uD0fcpPfeIisEPGw","version":1,"_id":"6qHtmdaHtkhU2lV0"}
+{"text":"Bill 1","price":"1","status":"active","updated":1478995589701,"user":"uD0fcpPfeIisEPGw","version":1,"_id":"bqw7ovBKIwRWT9xS"}
+{"text":"Bill 2","price":"2","status":"active","updated":1478995590276,"user":"uD0fcpPfeIisEPGw","version":1,"_id":"S6YlwcfWq6qEjFzi"}
